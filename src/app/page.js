@@ -63,4 +63,7 @@ export default function Home() {
     </div>
   );
 }
+<<<<<<< HEAD
 gann
+=======
+>>>>>>> e565b3450b5f1ff4b8cd074cd1a810e262097df5
